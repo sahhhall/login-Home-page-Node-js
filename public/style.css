@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Arimo:wght@700&family=Bebas+Neue&family=Gabarito:wght@400;500&family=Libre+Caslon+Text&family=Montserrat:wght@100&family=Mulish:wght@300&family=Quicksand&family=Rubik&display=swap');
+body{
+background-image: url('/assets/header.jpg');
+font-family: 'Mulish', sans-serif;
+
+/* background-repeat: no-repeat; */
+}
+.center-div{
+    padding-top: 4%;
+}
+.btn{
+    padding: .4em 2em;   
+}
+form{
+    padding: 0 3em;
+}
+#login .title>span{
+    font-size: .8em;
+}
+/* navbar */
+#sahal{
+    font-family: 'Gabarito', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+    letter-spacing: 10px;
+}
+
+#loggo{
+    font-family: 'Gabarito', sans-serif;
+    letter-spacing: 1px;
+}
+
+
+/* this for card */
+.card-text h5{
+    font-family: 'Gabarito', sans-serif;
+}
+.btn-card{
+    font-family: 'Gabarito', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.desc{
+    font-family: 'Quicksand', sans-serif;
+    font-size: .7em;
+    letter-spacing: .2em;
+}
